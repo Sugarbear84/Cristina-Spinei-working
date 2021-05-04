@@ -200,6 +200,8 @@ footer {
     max-width: 100%;
     text-align: center;
     position: relative;
+    padding-top: 20em;
+    padding-bottom: 6em;
 }
 
 footer2 {
